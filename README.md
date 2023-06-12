@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Mudit</h1>
+
+
+https://github.com/mudit-sharma-02/mudit-sharma-02/assets/130900807/7e624a50-ae89-46bb-92ca-8c90da832d93
+
 
 
 
