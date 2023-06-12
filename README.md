@@ -24,8 +24,7 @@ Currently a pre-final year Computer Science Engineering student at Vellore Insti
 - 🥅 Goals this year: Learn better programming skills and contribute more
 - ⚡ Fun Fact: Love pizzas & dismantling things to see what's inside 😜
 
-<br>
-<h2 align="center">Connect with me!</h2>
+
 
 
 <h2 align="center">Languages and Tools</h2>
