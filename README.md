@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-https://github.com/mudit-sharma-02/mudit-sharma-02/assets/130900807/7e624a50-ae89-46bb-92ca-8c90da832d93
-
+![Black Blue Clean Digital Professional Digital Marketing LinkedIn Article Cover Image](https://github.com/mudit-sharma-02/mudit-sharma-02/assets/130900807/bb2d3a80-c44a-4d32-b5dd-71107b174cbb)
 
 
 
