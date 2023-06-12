@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi <img src="./assets/wave.gif" width="30">,I'm Mudit</h1>
+<h1 align="center">Hi, I'm Mudit</h1>
 
 
-<img width="20%" align="right" src="./assets/ast-img.png" />
 
 Currently a pre-final year Computer Science Engineering student at Vellore Institute of Technology, Bhopal. I am someone that loves to learn something new everyday, currently learning Java and improving my DS Algo skills. I also love helping people out in any way I can. I've been calling myself a Web Developer but am also a Machine Learning and Data Science enthusiast.
 
