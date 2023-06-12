@@ -40,9 +40,9 @@ Currently a pre-final year Computer Science Engineering student at Vellore Insti
     <img alt="Python" src="https://img.shields.io/badge/Python-black?logo=Python"/>
 </p>
 <p align="center">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap"/>
-    <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-black?logo=Node.js"/>
+    <!--<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>-->
+    <!--<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap"/>-->
+    <!--<img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-black?logo=Node.js"/>-->
     <img alt="Express" src="https://img.shields.io/badge/Expressjs-black?logo=Express"/>
     <img alt="React" src="https://img.shields.io/badge/React-black?logo=react"/>
     <img alt="Flask" src="https://img.shields.io/badge/Flask-black?logo=flask"/>
@@ -53,7 +53,7 @@ Currently a pre-final year Computer Science Engineering student at Vellore Insti
     <img alt="Docker" src="https://img.shields.io/badge/Docker-3380F2.svg?logo=docker&logoColor=white"/>
     <img alt="Netlify" src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=ffffff"/>
     <img alt="AWS" src="https://img.shields.io/badge/AWS-black?logo=amazon-aws&logoColor=FF9900"/>
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-black?logo=microsoft-azure&logoColor=008AD7"/>
+    <!--<img alt="Azure" src="https://img.shields.io/badge/Azure-black?logo=microsoft-azure&logoColor=008AD7"/>-->
     <img alt="Google Cloud" src="https://img.shields.io/badge/GCP-black?logo=google-cloud&logoColor=ffffff"/>
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code"/>
     
@@ -63,8 +63,3 @@ Currently a pre-final year Computer Science Engineering student at Vellore Insti
 <h2 align="center">Projects</h2> -->
 
 <br>
-
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsksquare&count_private=true&show_icons=true&theme=dark&title_color=0400ff&bg_color=0D111700&hide_border=true">
-    <img width="48%" src = "https://github-readme-streak-stats.herokuapp.com/?user=itsksquare&line_height=40&theme=dark&background=0D111700&ring=0400ff&fire=ff0000&currStreakLabel=0400ff&hide_border=true">
-</p>
