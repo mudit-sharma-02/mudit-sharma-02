@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mudit-sharma-02/mudit-sharma-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi <img src="./assets/wave.gif" width="30">, I'm Mudit</h1>
+<h1 align="center">Hi <img src="./assets/wave.gif" width="30">,I'm Mudit</h1>
 
 
 <img width="20%" align="right" src="./assets/ast-img.png" />
