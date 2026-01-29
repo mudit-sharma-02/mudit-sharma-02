@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![Black Blue Clean Digital Professional Digital Marketing LinkedIn Article Cover Image](https://github.com/mudit-sharma-02/mudit-sharma-02/assets/130900807/bb2d3a80-c44a-4d32-b5dd-71107b174cbb)
 
 
@@ -43,7 +43,9 @@ Currently a pre-final year Computer Science Engineering student at Vellore Insti
     <img alt="Express" src="https://img.shields.io/badge/Expressjs-black?logo=Express"/>
     <img alt="React" src="https://img.shields.io/badge/React-black?logo=react"/>
     <img alt="Flask" src="https://img.shields.io/badge/Flask-black?logo=flask"/>
+<!--
 </p>
+
 <p align="center">
     <img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git"/>
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"/>
@@ -55,7 +57,6 @@ Currently a pre-final year Computer Science Engineering student at Vellore Insti
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code"/>
     
 </p>
-
 <!-- <br>
 <h2 align="center">Projects</h2> -->
 
