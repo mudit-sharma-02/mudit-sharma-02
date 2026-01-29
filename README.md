@@ -56,7 +56,7 @@ Currently a pre-final year Computer Science Engineering student at Vellore Insti
     <img alt="Google Cloud" src="https://img.shields.io/badge/GCP-black?logo=google-cloud&logoColor=ffffff"/>
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code"/>
     
-</p>
+<!--</p> -->
 <!-- <br>
 <h2 align="center">Projects</h2> -->
 
@@ -115,7 +115,7 @@ I’m a Data Analyst with a strong background in extracting, cleaning, analyzing
 > You can also pin repositories here once you upload analysis projects.
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)
@@ -123,6 +123,7 @@ I’m a Data Analyst with a strong background in extracting, cleaning, analyzing
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)
 
 ---
+-->
 
 ## 🤝 Connect With Me
 
